@@ -21,6 +21,17 @@ Madhu Parvathaneni alias MS is a Sloutions Architect at madBlocks ML/AI Group an
 4. Data Pre-Processing Template
 5. Data Gathering Techniques
 
+<b>Day - 2: </b>
+1. Data Preparing Template
+2. Data Cleaning Template
+3. Flask Framework Examples
+
+<b>Day - 3: </b>
+1. Salary Prediction System 
+2. Startup Profit Estimation System
+3. Crop Recommendation System
+4. IBM Certification Exam
+
 # Telegram Group
 https://t.me/+_380Zk3IHHkxNWNl
 
