@@ -11,6 +11,10 @@ Madhu Parvathaneni alias MS is a Sloutions Architect at madBlocks ML/AI Group an
 2. git (Download <a href="https://git-scm.com">git</a>)
 3. Python (Download <a href="https://python.org/downloads">Python</a>)
 
+# Assignments
+1. Design and Develop Diabetes Prediction System using diabetes.csv
+2. Design and Develop Health Analyser using Training.csv and Testing.csv
+
 # Day Wise Content
 
 <b>Day - 1: </b>
